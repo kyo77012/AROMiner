@@ -1,0 +1,18 @@
+MINICAP_HOME
+C:\Program Files (x86)\MiniCap\MiniCap.exe
+
+CAP_MODE
+-captureregion
+
+CAP_REGION
+28 398 435 533
+
+FLAG
+-exit -nofocus
+
+SAVE_PATH
+C:\Users\kyo\Desktop
+
+PIC_NAME
+desktop.bmp
+
